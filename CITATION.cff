@@ -4,11 +4,9 @@ authors:
 - family-names: "David"
   given-names: "Joe"
   orcid: "https://orcid.org/0000-0003-4651-0164"
-title: "Interaction UI"
+title: "NXAgent"
 version: 0.1.0
-doi: 10.5281/zenodo.1234
-date-released: 2023-03-30
-url: "https://permanent.link/to/jd-doctoral-dissertation/interaction-ui"
+date-released: 2023-09-01
 preferred-citation:
   type: article
   authors:
