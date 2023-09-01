@@ -21,7 +21,7 @@ preferred-citation:
   - family-names: "Lobov"
     given-names: "Andrei"
     orcid: "https://orcid.org/0000-0003-2729-489X"
-  doi: "10.0000/00000"
+  doi: "https://doi.org/10.1016/j.jmsy.2023.07.013"
   journal: "Journal of Manufacturing Systems"
   month: 9
   start: 359 # First page number
